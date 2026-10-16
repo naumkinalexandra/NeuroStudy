@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+tasks.json
+.venv/
+venv/
+.vscode/.ropeproject
